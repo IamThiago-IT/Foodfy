@@ -27,6 +27,5 @@ A primeira parte do desafio consistia em construir o front-end completo do site 
 ------------
 
 <!--h2 align="center"> Animações de CSS adiconados </h2>
-
 <!--img src="https://ik.imagekit.io/mqh5rdpeme/efeito01_uijis7lGj.gif" alt="Desafios LaunchBase - Bootcamp" />
 <!--img src="https://ik.imagekit.io/mqh5rdpeme/efeito02_jApj2l_Q6.gif" alt="Desafios LaunchBase - Bootcamp" />
